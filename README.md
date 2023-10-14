@@ -6,8 +6,7 @@ Rachael Savage
 ## Course
 CSC285-Python II
 
-## Professor
-Tony Hinton
+
 
 ## Date
 9/16/23
