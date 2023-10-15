@@ -34,5 +34,5 @@ def text_to_speech(api_key, voice_id, text, model_id="eleven_monolingual_v1", vo
         print(f"Error {response.status_code}: {response.text}")
         return None
 
-api_key = "0ebcc703f6d7528271884d017d016f40"  # ElevenLabs API Key
+api_key = ""  # ElevenLabs API Key
 voice_id = "flq6f7yk4E4fJM5XTYuZ"  # Voice ID: michael
