@@ -3,22 +3,9 @@
 ## Author
 Rachael Savage
 
-## Course
-CSC285-Python II
-
-
-
 ## Date
 9/16/23
 
-## Python Version
-3.11.5
-
-## Pygame Version
-2.5.1
-
-## Markovify Version
-0.9.4
 
 ## Overview
 
